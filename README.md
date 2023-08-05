@@ -1,4 +1,6 @@
-# AkatsukiIG
+# ☠AkatsukiIG☠
+
+# 🇮🇩INDONESIA HACKER🇮🇩
 
 >> apt update -y && apt upgrade -y
 >> pkg install clang binutils git libffi openssl libsodium iproute2
